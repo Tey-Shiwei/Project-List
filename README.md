@@ -1,8 +1,6 @@
 # Project-List
 Projects done during NUS Masters
 
-(The codes may not run without errors, for self viewing purpose)
-
 1.	Kaggle: Binary classification on time series data, Rank 5/28
 2.	Kaggle: Malware detection based on features extracted from API calls, Rank 14/38
 3.	Features Transferability in VGG11 with CIFAR10
@@ -19,3 +17,5 @@ Projects done during NUS Masters
 14.	Gradient Boosting Regressor on Decision Tree
 15.	Agglomerative Hierarchical Clustering Algorithm
 16.	Generating high scoring adversarial images which are different from training data
+
+(The codes may not run without errors, for self viewing purpose)
