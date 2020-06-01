@@ -1,5 +1,6 @@
 # Project-List
 Projects done during NUS Masters
+
 (The code may not run without errors, for self viewing purpose)
 
 1.	Kaggle: Binary classification on time series data, Rank 5/28
