@@ -1,7 +1,7 @@
 # Project-List
 Projects done during NUS Masters
 
-(The code may not run without errors, for self viewing purpose)
+(The codes may not run without errors, for self viewing purpose)
 
 1.	Kaggle: Binary classification on time series data, Rank 5/28
 2.	Kaggle: Malware detection based on features extracted from API calls, Rank 14/38
