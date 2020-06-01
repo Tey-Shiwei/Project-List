@@ -16,6 +16,6 @@ Projects done during NUS Masters, view the Report.pdf to understand more about e
 13.	Least Squares Regressor Tree by CART
 14.	Gradient Boosting Regressor on Decision Tree
 15.	Agglomerative Hierarchical Clustering Algorithm
-16.	Generating high scoring adversarial images which are different from training data
+16.	Generating Adversarial Images (High classification accuracy and different from training data)
 
 (The codes may not run without errors, for self viewing purpose)
