@@ -1,0 +1,9 @@
+hyperopt
+lightgbm==2.3.0
+pandas==0.23.4
+pyarrow
+scikit-learn
+seaborn
+tensorflow==2.0.0
+tqdm
+tsfresh
