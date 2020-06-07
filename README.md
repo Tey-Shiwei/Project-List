@@ -1,5 +1,7 @@
 # Project-List
-Projects done during NUS Masters
+AI and ML Projects done during NUS Masters
+
+View reports for more information
 
 1.	Kaggle: Binary classification on time series data, Rank 5/28
 2.	Kaggle: Malware detection based on features extracted from API calls, Rank 14/38
@@ -17,5 +19,3 @@ Projects done during NUS Masters
 14.	Gradient Boosting Regressor on Decision Tree
 15.	Agglomerative Hierarchical Clustering Algorithm
 16.	Generating Adversarial Images (High classification accuracy and different from training data)
-
-(The codes may not run without errors, for self viewing purpose)
