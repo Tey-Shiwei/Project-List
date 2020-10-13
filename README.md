@@ -19,3 +19,8 @@ View reports for more information
 14.	Gradient Boosting Regressor on Decision Tree
 15.	Agglomerative Hierarchical Clustering Algorithm
 16.	Generating Adversarial Images (High classification accuracy and different from training data)
+
+Current work
+
+1. Telemetry data to predict product failure
+2. Counterfeit product detection from printouts
