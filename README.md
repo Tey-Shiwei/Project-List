@@ -27,5 +27,5 @@ View reports for more information
 17. Mobile robot Motion Planning in ROS environment with A* and value iteration (VI)
 18. Visual Autonomous Navigation in Gym-Duckietown with reinforcement learning (RL)
 
-Current work
+# Current work
 1. Failure prediction model with Telemetry data
