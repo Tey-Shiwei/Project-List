@@ -8,10 +8,10 @@ View reports for more information
 1.	Kaggle: Binary classification on time series data, Rank 5/28
 2.  Kaggle: Malware detection based on features extracted from API calls, Rank 14/38
 3.	Transfer learning: Features Transferability in VGG11 with CIFAR10
-5.	Generating a boundary GAN model
-6.  Attacking an NN model with minimal perturbation
-7.  Defending adversarial attack against Blackbox CNN model
-13.	Least Squares Regressor Tree by CART
+5.	Generating a boundary GAN model<br />
+6.  Attacking an NN model with minimal perturbation<br />
+7.  Defending adversarial attack against Blackbox CNN model<br />
+13.	Least Squares Regressor Tree by CART<br />
 14.	Gradient Boosting Regressor on Decision Tree
 15.	Agglomerative Hierarchical Clustering Algorithm
 16.	Generating Adversarial Images (High classification accuracy and different from training data)
@@ -29,8 +29,3 @@ View reports for more information
 
 # Current work
 1. Failure prediction model with Telemetry data
-
-
-a\a
-a__a
-a<br />a
