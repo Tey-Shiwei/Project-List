@@ -14,7 +14,7 @@ View reports for more information
 <br />13.	Least Squares Regressor Tree by CART
 <br />14.	Gradient Boosting Regressor on Decision Tree
 <br />15.	Agglomerative Hierarchical Clustering Algorithm
-<br />16.	Generating Adversarial Images (High classification accuracy and different from training data)
+<br />16.	Generating Adversarial Images (High classification accuracy but different from training data)
 
 # Artificial Intelligence
 
