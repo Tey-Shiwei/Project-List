@@ -5,8 +5,8 @@ View reports for more information
 
 # Machine Learning
 
-1.	Kaggle: Binary classification on time series data, Rank 5/28\
-2.	Kaggle: Malware detection based on features extracted from API calls, Rank 14/38__
+1.	Kaggle: Binary classification on time series data, Rank 5/28\\
+Kaggle: Malware detection based on features extracted from API calls, Rank 14/38__
 3.	Transfer learning: Features Transferability in VGG11 with CIFAR10__
 5.	Generating a boundary GAN model__
 6.	Attacking an NN model with minimal perturbation__
