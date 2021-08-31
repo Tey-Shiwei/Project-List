@@ -11,21 +11,21 @@ View reports for more information
 <br />5.	Generating a boundary GAN model
 <br />6.  Attacking an NN model with minimal perturbation
 <br />7.  Defending adversarial attack against Blackbox CNN model
-<br />13.	Least Squares Regressor Tree by CART<br />
+<br />13.	Least Squares Regressor Tree by CART
 <br />14.	Gradient Boosting Regressor on Decision Tree
 <br />15.	Agglomerative Hierarchical Clustering Algorithm
 <br />16.	Generating Adversarial Images (High classification accuracy and different from training data)
 
 # Artificial Intelligence
 
-4.	Deep-Q learning (DQN) and Double DQN with function approximations on large stochastic env
-8.	Planning Domain Definition Language (PDDL) on deterministic environment
-9.	Value iteration and Monte Carlo Tree Search (MCTS) on non-deterministic environment
-10.	Vanishing point detection by EM algorithm
-11.	Variational inference on Latent Dirchlet Allocation
-12.	Seam Carving by Viterbi algorithm
-17. Mobile robot Motion Planning in ROS environment with A* and value iteration (VI)
-18. Visual Autonomous Navigation in Gym-Duckietown with reinforcement learning (RL)
+<br />4.	Deep-Q learning (DQN) and Double DQN with function approximations on large stochastic env
+<br />8.	Planning Domain Definition Language (PDDL) on deterministic environment
+<br />9.	Value iteration and Monte Carlo Tree Search (MCTS) on non-deterministic environment
+<br />10.	Vanishing point detection by EM algorithm
+<br />11.	Variational inference on Latent Dirchlet Allocation
+<br />12.	Seam Carving by Viterbi algorithm
+<br />17. Mobile robot Motion Planning in ROS environment with A* and value iteration (VI)
+<br />18. Visual Autonomous Navigation in Gym-Duckietown with reinforcement learning (RL)
 
 # Current work
-1. Failure prediction model with Telemetry data
+<br />1. Failure prediction model with Telemetry data
