@@ -26,6 +26,3 @@ View reports for more information
 <br />12.	Seam Carving by Viterbi algorithm
 <br />17. Mobile robot Motion Planning in ROS environment with A* and value iteration (VI)
 <br />18. Visual Autonomous Navigation in Gym-Duckietown with reinforcement learning (RL)
-
-# Current work
-<br />1. Failure prediction model with Telemetry data
